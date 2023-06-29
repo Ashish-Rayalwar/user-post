@@ -1,4 +1,4 @@
-# Post app MERN Project
+# Post app Backend Project
 
 ## Project - Post Application
 
